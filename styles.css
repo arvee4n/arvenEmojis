@@ -1,0 +1,4 @@
+@font-face { font-family: Trixie; src: url('fonts/TrixieCyrG-PlainRegular.otf'); }
+html {
+  font-family: Trixie;
+}
